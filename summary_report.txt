@@ -1,0 +1,6 @@
+SUPERSTORE SALES REPORT
+=======================
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Unique Orders: 5009
+Top Sales Category: Technology
